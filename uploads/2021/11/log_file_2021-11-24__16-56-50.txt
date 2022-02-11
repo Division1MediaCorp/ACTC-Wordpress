@@ -1,0 +1,44 @@
+
+---Downloaded files---
+The import files for: Default Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost
+Data file = /srv/www/wordpress/wp-content/uploads/2021/11/demo-content-import-file_2021-11-24__16-56-50.xml
+Widget file = /srv/www/wordpress/wp-content/uploads/2021/11/demo-widgets-import-file_2021-11-24__16-56-50.json
+Customizer file = not defined!
+Redux files:
+themnific_redux -> /srv/www/wordpress/wp-content/uploads/2021/11/demo-redux-import-file_0-2021-11-24__16-56-50.json 
+
+
+---Importing widgets---
+Sidebar : 
+
+Image - No Title - Imported
+Navigation Menu - No Title - Widget already exists
+Themnific: Featured - Recent Posts - Widget already exists
+
+Footer 1 : 
+
+Text - No Title - Imported
+Search - No Title - Imported
+
+Footer 2 : 
+
+Text - Living Here - Imported
+
+Footer 3 : 
+
+Text - Useful Links - Widget already exists
+
+Footer 4 : 
+
+Text - Quick Links - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: themnific_redux finished successfully!
+
+---ocdi/after_import---
+

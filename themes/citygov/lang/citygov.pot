@@ -1,0 +1,678 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: citygov/functions/widgets/widget-blog-list.php:1
+msgid "!!Posts block for Elementor only!!"
+msgstr ""
+
+#. Text in echo
+#: citygov/404.php:16
+msgid "404 • Page not found "
+msgstr ""
+
+#. Text in echo
+#: citygov/includes/uni-social.php:20
+msgid "500px"
+msgstr ""
+
+#. Text in function
+#: citygov/redux-framework/redux-themnific.php:1
+msgid "<p class=\"description\">This is a section created by adding a filter to the sections array. Can be used by child themes to add/remove sections from the options.</p>"
+msgstr ""
+
+#. Text in echo
+#: citygov/functions/widgets/widget-ads-300.php:66
+msgid "Ad Code:"
+msgstr ""
+
+#. Text in function
+#: citygov/functions.php:305
+msgid "Additional Menu"
+msgstr ""
+
+#. Text in echo
+#: citygov/includes/uni-404-content.php:3
+msgid "All Blog Posts"
+msgstr ""
+
+#. Text in function
+#: citygov/class-tgm-plugin-activation.php:1
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#. Text in function
+#: citygov/functions.php:305
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#. Text in echo
+#: citygov/functions/widgets/widget-ads-300.php:79
+msgid "Alt text:"
+msgstr ""
+
+#. Text in echo
+#: citygov/archive.php:31
+msgid "Archive"
+msgstr ""
+
+#. Text in function
+#: citygov/functions.php:305
+msgid "Audio"
+msgstr ""
+
+#. Text in function
+#: citygov/redux-framework/redux-themnific.php:107
+msgid "By %s"
+msgstr ""
+
+#. Text in echo
+#: citygov/index.php:15
+msgid "City News"
+msgstr ""
+
+#. Text in echo
+#: citygov/comments.php:54
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in echo
+#: citygov/redux-framework/redux-themnific.php:96
+#: citygov/redux-framework/redux-themnific.php:100
+msgid "Current theme preview"
+msgstr ""
+
+#. Text in function
+#: citygov/redux-framework/redux-themnific.php:1
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#. Text in function
+#: citygov/class-tgm-plugin-activation.php:1
+msgid "Dismiss this notice"
+msgstr ""
+
+#. Text in echo
+#: citygov/includes/uni-social.php:50
+msgid "Dribbble"
+msgstr ""
+
+#. Text in function
+#: citygov/functions.php:305
+msgid "Elementor"
+msgstr ""
+
+#. Text in function
+#: citygov/functions.php:305
+msgid "Eleslider"
+msgstr ""
+
+#. Text in echo
+#: citygov/includes/uni-social.php:8
+msgid "Facebook"
+msgstr ""
+
+#. Text in function
+#: citygov/functions/widgets/widget-featured.php:1
+msgid "Featured posts widget."
+msgstr ""
+
+#. Text in echo
+#: citygov/functions/widgets/widget-blog-list.php:92
+#: citygov/functions/widgets/widget-featured.php:90
+msgid "Filter by Category"
+msgstr ""
+
+#. Text in echo
+#: citygov/includes/uni-social.php:17
+msgid "Flickr"
+msgstr ""
+
+#. Text in function
+#: citygov/functions.php:305
+msgid "Footer 1"
+msgstr ""
+
+#. Text in function
+#: citygov/functions.php:305
+msgid "Footer 2"
+msgstr ""
+
+#. Text in function
+#: citygov/functions.php:305
+msgid "Footer 3"
+msgstr ""
+
+#. Text in function
+#: citygov/functions.php:305
+msgid "Footer 4"
+msgstr ""
+
+#. Text in function
+#: citygov/functions.php:305
+msgid "Footer Menu"
+msgstr ""
+
+#. Text in echo
+#: citygov/includes/uni-social.php:47
+msgid "Foursquare"
+msgstr ""
+
+#. Text in function
+#: citygov/functions.php:305
+msgid "Free 1"
+msgstr ""
+
+#. Text in function
+#: citygov/functions.php:305
+msgid "Free 2"
+msgstr ""
+
+#. Text in function
+#: citygov/functions.php:305
+msgid "Free 3"
+msgstr ""
+
+#. Text in function
+#: citygov/functions.php:305
+msgid "Free 4"
+msgstr ""
+
+#. Text in function
+#: citygov/functions.php:305
+msgid "Free widget section"
+msgstr ""
+
+#. Text in function
+#: citygov/functions.php:305
+msgid "Gallery"
+msgstr ""
+
+#. Text in echo
+#: citygov/includes/uni-social.php:35
+msgid "GitHub"
+msgstr ""
+
+#. Text in echo
+#: citygov/includes/uni-social.php:14
+msgid "Google+"
+msgstr ""
+
+#. Text in function
+#: citygov/functions.php:310
+msgid "Home"
+msgstr ""
+
+#. Text in echo
+#: citygov/searchform.php:6
+msgid "I am looking for..."
+msgstr ""
+
+#. Text in function
+#: citygov/functions.php:305
+msgid "Image"
+msgstr ""
+
+#. Text in echo
+#: citygov/functions/widgets/widget-ads-300.php:71
+msgid "Image Url:"
+msgstr ""
+
+#. Text in echo
+#: citygov/includes/uni-social.php:23
+msgid "Instagram"
+msgstr ""
+
+#. Text in function
+#: citygov/class-tgm-plugin-activation.php:1
+#: citygov/functions.php:305
+msgid "Install Plugins"
+msgstr ""
+
+#. Text in function
+#: citygov/class-tgm-plugin-activation.php:1
+#: citygov/functions.php:305
+msgid "Install Required Plugins"
+msgstr ""
+
+#. Text in function
+#: citygov/class-tgm-plugin-activation.php:1
+#: citygov/functions.php:305
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. Text in echo
+#: citygov/single-info.php:12
+msgid "Last modified"
+msgstr ""
+
+#. Text in function
+#: citygov/functions.php:305
+msgid "Link"
+msgstr ""
+
+#. Text in echo
+#: citygov/functions/widgets/widget-ads-300.php:75
+msgid "Link URL:"
+msgstr ""
+
+#. Text in echo
+#: citygov/includes/uni-social.php:38
+msgid "LinkedIn"
+msgstr ""
+
+#. Text in function
+#: citygov/functions.php:305
+#: citygov/header.php:54
+msgid "Main Menu"
+msgstr ""
+
+#. Text in echo
+#: citygov/header.php:52
+msgid "Menu"
+msgstr ""
+
+#. Text in function
+#: citygov/comments.php:47
+msgid "Newer Comments"
+msgstr ""
+
+#. Text in echo
+#: citygov/includes/mag-nextprev.php:35
+#: citygov/page.php:70
+#: citygov/single-content.php:21
+#: citygov/template-fullwidth.php:69
+#: citygov/template-left-sidebar.php:70
+msgid "Next"
+msgstr ""
+
+#. Text in function
+#: citygov/class-tgm-plugin-activation.php:1
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. Text in echo
+#: citygov/archive.php:80
+#: citygov/index.php:55
+msgid "Nothing found here"
+msgstr ""
+
+#. Text in echo
+#: citygov/functions/widgets/widget-blog-list.php:103
+#: citygov/functions/widgets/widget-featured.php:101
+msgid "Number of posts"
+msgstr ""
+
+#. Text in echo
+#: citygov/functions/widgets/widget-blog-list.php:108
+#: citygov/functions/widgets/widget-featured.php:106
+msgid "Offset posts"
+msgstr ""
+
+#. Text in function
+#: citygov/comments.php:46
+msgid "Older Comments"
+msgstr ""
+
+#. Text in echo
+#: citygov/search.php:51
+msgid "Oops! Nothing found here"
+msgstr ""
+
+#. Text in echo
+#: citygov/404.php:19
+msgid "Oops! The page you are looking for does not exist. It might have been moved or deleted. "
+msgstr ""
+
+#. Text in echo
+#: citygov/header.php:51
+msgid "Open Menu"
+msgstr ""
+
+#. Text in echo
+#: citygov/includes/uni-social.php:75
+msgid "Open Search Window"
+msgstr ""
+
+#. Text in echo
+#: citygov/archive.php:82
+#: citygov/index.php:57
+msgid "Perhaps You will find something interesting from these lists..."
+msgstr ""
+
+#. Text in echo
+#: citygov/includes/uni-social.php:26
+msgid "Pinterest"
+msgstr ""
+
+#. Text in function
+#: citygov/class-tgm-plugin-activation.php:1
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#. Text in function
+#: citygov/class-tgm-plugin-activation.php:1
+#: citygov/functions.php:305
+msgid "Plugin activated successfully."
+msgstr ""
+
+#. Text in function
+#: citygov/class-tgm-plugin-activation.php:1
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. Text in echo
+#: citygov/includes/mag-nextprev.php:15
+#: citygov/page.php:70
+#: citygov/single-content.php:21
+#: citygov/template-fullwidth.php:69
+#: citygov/template-left-sidebar.php:70
+msgid "Previous"
+msgstr ""
+
+#. Text in function
+#: citygov/functions.php:310
+msgid "Projects"
+msgstr ""
+
+#. Text in echo
+#: citygov/header.php:64
+msgid "Quick Links"
+msgstr ""
+
+#. Text in function
+#: citygov/functions.php:305
+msgid "Quote"
+msgstr ""
+
+#. Text in echo
+#: citygov/functions.php:309
+msgid "Read More"
+msgstr ""
+
+#. Text in function
+#: citygov/functions.php:305
+msgid "Redux Framework"
+msgstr ""
+
+#. Text in function
+#: citygov/class-tgm-plugin-activation.php:1
+#: citygov/functions.php:305
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#. Text in function
+#: citygov/class-tgm-plugin-activation.php:1
+msgid "Return to the Dashboard"
+msgstr ""
+
+#. Text in echo
+#: citygov/includes/uni-social.php:5
+msgid "Rss Feed"
+msgstr ""
+
+#. Text in echo
+#: citygov/footer.php:59
+msgid "Scroll to top"
+msgstr ""
+
+#. Text in echo
+#: citygov/searchform.php:7
+msgid "Search"
+msgstr ""
+
+#. Text in echo
+#: citygov/search.php:15
+msgid "Search Results"
+msgstr ""
+
+#. Text in function
+#: citygov/redux-framework/redux-themnific.php:1
+msgid "Section via hook"
+msgstr ""
+
+#. Text in echo
+#: citygov/woocommerce.php:14
+msgid "Shop"
+msgstr ""
+
+#. Text in function
+#: citygov/functions.php:305
+msgid "Shop Sidebar"
+msgstr ""
+
+#. Text in function
+#: citygov/functions.php:305
+msgid "Shortcodes Ultimate"
+msgstr ""
+
+#. Text in function
+#: citygov/functions.php:305
+msgid "Sidebar"
+msgstr ""
+
+#. Text in function
+#: citygov/functions.php:305
+msgid "Sidebar widget section"
+msgstr ""
+
+#. Text in function
+#: citygov/functions.php:305
+msgid "Sidebar widget section (displayed on shop pages)"
+msgstr ""
+
+#. Text in echo
+#: citygov/header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#. Text in echo
+#: citygov/includes/uni-social.php:41
+msgid "Skype"
+msgstr ""
+
+#. Text in echo
+#: citygov/includes/uni-social.php:71
+msgid "Snapchat"
+msgstr ""
+
+#. Text in function
+#: citygov/class-tgm-plugin-activation.php:1
+#: citygov/functions.php:305
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. Text in echo
+#: citygov/page.php:97
+#: citygov/single.php:65
+#: citygov/template-left-sidebar.php:97
+msgid "Sorry, no posts matched your criteria"
+msgstr ""
+
+#. Text in echo
+#: citygov/includes/uni-social.php:56
+msgid "SoundCloud"
+msgstr ""
+
+#. Text in echo
+#: citygov/includes/uni-social.php:59
+msgid "Spotify"
+msgstr ""
+
+#. Text in echo
+#: citygov/includes/uni-social.php:53
+msgid "StumbleUpon"
+msgstr ""
+
+#. Text in echo
+#: citygov/archive.php:41
+msgid "Tag Archive"
+msgstr ""
+
+#. Text in function
+#: citygov/redux-framework/redux-themnific.php:109
+msgid "Tags"
+msgstr ""
+
+#. Text in echo
+#: citygov/search.php:53
+msgid "Take a moment and do a search below"
+msgstr ""
+
+#. Text in function
+#: citygov/redux-framework/redux-themnific.php:1
+msgid "The compiler hook has run!"
+msgstr ""
+
+#. Text in function
+#: citygov/class-tgm-plugin-activation.php:1
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. Text in function
+#: citygov/functions/widgets/widget-ads-300.php:1
+msgid "Themnific: Ads 300px/Free"
+msgstr ""
+
+#. Text in function
+#: citygov/functions/widgets/widget-blog-list.php:1
+msgid "Themnific: Blog List"
+msgstr ""
+
+#. Text in function
+#: citygov/functions/widgets/widget-featured.php:1
+msgid "Themnific: Featured"
+msgstr ""
+
+#. Text in function
+#: citygov/functions/widgets/widget-social.php:1
+msgid "Themnific: Social Networks"
+msgstr ""
+
+#. Text in function
+#: citygov/class-tgm-plugin-activation.php:1
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#. Text in function
+#: citygov/redux-framework/redux-themnific.php:111
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#. Text in function
+#: citygov/functions/widgets/widget-social.php:1
+msgid "This is Social Networks widget."
+msgstr ""
+
+#. Text in function
+#: citygov/class-tgm-plugin-activation.php:1
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#. Text in echo
+#: citygov/functions/widgets/widget-blog-list.php:87
+#: citygov/functions/widgets/widget-featured.php:85
+msgid "Title (optional)"
+msgstr ""
+
+#. Text in echo
+#: citygov/functions/widgets/widget-ads-300.php:62
+msgid "Title (optional):"
+msgstr ""
+
+#. Text in echo
+#: citygov/functions/widgets/widget-social.php:36
+msgid "Title:"
+msgstr ""
+
+#. Text in echo
+#: citygov/404.php:22
+msgid "Try a search below..."
+msgstr ""
+
+#. Text in echo
+#: citygov/includes/uni-social.php:44
+msgid "Tumblr"
+msgstr ""
+
+#. Text in echo
+#: citygov/includes/uni-social.php:11
+msgid "Twitter"
+msgstr ""
+
+#. Text in function
+#: citygov/class-tgm-plugin-activation.php:1
+msgid "Update Required"
+msgstr ""
+
+#. Text in function
+#: citygov/class-tgm-plugin-activation.php:1
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#. Text in function
+#: citygov/functions/widgets/widget-ads-300.php:1
+msgid "Use this widget to add any type of Ad as a widget."
+msgstr ""
+
+#. Text in echo
+#: citygov/includes/uni-social.php:68
+msgid "VKontakte"
+msgstr ""
+
+#. Text in function
+#: citygov/redux-framework/redux-themnific.php:108
+msgid "Version %s"
+msgstr ""
+
+#. Text in function
+#: citygov/functions.php:305
+msgid "Video"
+msgstr ""
+
+#. Text in echo
+#: citygov/includes/uni-social.php:32
+msgid "Vimeo"
+msgstr ""
+
+#. Text in echo
+#: citygov/includes/uni-social.php:65
+msgid "WhatsApp"
+msgstr ""
+
+#. Text in function
+#: citygov/functions.php:305
+msgid "Widget section in footer - center/left"
+msgstr ""
+
+#. Text in function
+#: citygov/functions.php:305
+msgid "Widget section in footer - center/right"
+msgstr ""
+
+#. Text in function
+#: citygov/functions.php:305
+msgid "Widget section in footer - left"
+msgstr ""
+
+#. Text in function
+#: citygov/functions.php:305
+msgid "Widget section in footer - right"
+msgstr ""
+
+#. Text in echo
+#: citygov/includes/uni-social.php:62
+msgid "Xing"
+msgstr ""
+
+#. Text in echo
+#: citygov/includes/uni-social.php:29
+msgid "YouTube"
+msgstr ""
+
+#. Text in function
+#: citygov/redux-framework/redux-themnific.php:111
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
